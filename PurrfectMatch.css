@@ -1,0 +1,32 @@
+#content {
+	text-align: center;
+	padding-top: 20%;
+}
+
+body {
+	background-image: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+html {
+	height: 100%;
+	/*It simply means 100% of the computer*/
+}
+
+h1 {
+	color:white;
+	font-size: 5em;
+	font-weight: 700;
+}
+
+h3 {
+	color: white;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #F8F8F8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}

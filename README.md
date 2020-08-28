@@ -2,7 +2,7 @@
 # Web Development
 I have all my project sites in this page...
 ![Image](https://cdn6.f-cdn.com/files/download/82615852/web-dev-ty.jpg)
-### Checkout the links below to go to the respective pages 
+### Checkout the links to go to the respective pages 
 - [Rusty Steele](./SecondAssignment.html)
 - [Dummy Form](./Forms_Fourth%20Assignment.html)
 - [First Gen Pokemon Chart](./ThirdAssignment.html)
